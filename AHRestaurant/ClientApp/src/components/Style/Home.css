@@ -1,0 +1,23 @@
+﻿body {
+    background-color: #0D0D0D;
+}
+
+.bannerdiv {
+    width: inherit;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    overflow: hidden;
+    height: 300px;
+    margin: 40px 0px 40px;
+}
+
+.banner {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.homeblocks {
+    color: #F2F2F2
+}
